@@ -3,7 +3,6 @@
 This README is auto-generated. You may view its source code [here](docgen.py).
 Showcases are randomly chosen. Files are shuffled then first two
 from each category are chosen.
-In this fork, I am selectively deleting wallpapers that I hate or does not suit laptop screen. One at a time.
 ## Showcase
 
 Categorized wallpaper showcase. two pictures per category.
